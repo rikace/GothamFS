@@ -30,28 +30,46 @@ let loadWindow() =
     let window = MainWindow()
 
     /// StartDrag events
-    let start_stream = 
-        window.Rectangle.MouseDown
+    let start_drag = 
+        window.Ball.MouseDown
         |> Observable.filter (fun btn -> btn.ChangedButton = Input.MouseButton.Left)
-        |> Observable.map (fun x -> StartDrag(x.GetPosition(window.Rectangle)))
+        |> Observable.map (fun x -> StartDrag(x.GetPosition(window.Ball)))
 
     /// StopDrag events
-    let stop_stream =
+    let stop_drag =
         window.Canvas.MouseUp
         |> Observable.filter(fun btn -> btn.ChangedButton = Input.MouseButton.Left)
         |> Observable.map (fun _ -> StopDrag)
 
     /// UpdatePosition events
-    let move_stream =
+    let moving =
         window.Canvas.MouseMove
         |> Observable.map (fun x -> UpdatePosition(x.GetPosition(window.Canvas)))
 
 
     /// Subscription for the entire Drag command
     let subscription =
-          List.reduce Observable.merge [start_stream 
-                                        stop_stream 
-                                        move_stream ]
+
+    // OPTION (1) 
+        // TODO:    Build functionality to Drag the Ball whee the mouse is pressed, and drwa 
+            // Possible approach
+            // TODO:    Merge the events "start_dragging", "stop_dragging", "moving" 
+            // TODO:    Check the event fired and the current state (StartDragging, StopDrag and UpdatePosition)
+            //          Modify the old state state with the current one
+            // TODO:    Check and filter the state if it is dragging
+            // TODO:    Retrive the current mouse coordinates
+            // TODO:    Move the Ball accordingly
+
+    // OPTION (2) 
+        // TODO:    Add drawing functionality (may be a red line)
+        // TODO:    Collect the coordinate Points during the dragging,
+        //          Create an Undo logic (memento pattern), when the mouse is released
+        //          the ball goes backward (adding some delay for animation)
+        //          following the original path till the original starting point.
+
+          List.reduce Observable.merge [start_drag 
+                                        stop_drag
+                                        moving ]
 
         |> Observable.scan (fun (state : DragState) (change : DragChange) -> 
                             match change with
@@ -66,8 +84,8 @@ let loadWindow() =
                     let diff = state.position - state.offset
                     Point(diff.X, diff.Y))
         |> Observable.subscribe (fun (position : Point) -> 
-                    Canvas.SetLeft(window.Rectangle, position.X)
-                    Canvas.SetTop(window.Rectangle, position.Y))
+                    Canvas.SetLeft(window.Ball, position.X)
+                    Canvas.SetTop(window.Ball, position.Y))
 
     window.Root
 

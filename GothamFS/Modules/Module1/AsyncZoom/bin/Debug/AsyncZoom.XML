@@ -71,10 +71,10 @@
 <member name="">
 
 </member>
-<member name="T:Util.Observable">
+<member name="T:Utils.Observable">
 
 </member>
-<member name="T:Util">
+<member name="T:Utils">
 
 </member>
 </members>

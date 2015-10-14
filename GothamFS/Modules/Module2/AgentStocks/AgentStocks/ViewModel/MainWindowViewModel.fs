@@ -25,6 +25,7 @@ type MainWindowViewModel() =
         p.LegendBackground <- OxyColor.FromAColor(200uy, OxyColors.White)
         p.LegendBorder <- OxyColors.Black
         p
+
     let mutable stockButtonViewModels = Dictionary<string, StockToggleButtonViewModel>()
 
     let chartingActorRef = Agents.lineChartingAgent(plotModel)

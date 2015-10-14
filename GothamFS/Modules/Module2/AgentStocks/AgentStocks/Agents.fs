@@ -12,76 +12,71 @@
     open OxyPlot.Series
     open System.Reactive.Linq
     open Messages
+    open Utils
 
 
-    type Agent<'a> = MailboxProcessor<'a>
-
-    type private ThreadSafeRandomRequest =
-    | GetDouble of AsyncReplyChannel<decimal>
-    let private threadSafeRandomAgent = Agent.Start(fun inbox -> 
-            let rnd = new Random()
-            let rec loop() = async {
-                let! GetDouble(reply) = inbox.Receive() 
-                reply.Reply((rnd.Next(-5, 5) |> decimal))
-                return! loop()
-            }
-            loop() )
-
-
-    let updatePrice (price:decimal) =
-                let newPrice' = price + (threadSafeRandomAgent.PostAndReply(GetDouble))
-                if newPrice' < 0m then 5m
-                elif newPrice' > 50m then 45m
-                else newPrice'
-
-
-    let stocksObservable (agent: MailboxProcessor<StockAgentMessage>) =
+    let stocksObservable (agent: Agent<StockAgentMessage>) =
         Observable.Interval(TimeSpan.FromMilliseconds 750.)
         |> Observable.scan(fun s i -> updatePrice s) 20m
-        |> Observable.add(fun u -> agent.Post(UpdateStockPrices(u, DateTime.Now)))
+        |> Observable.add(fun u -> agent.Post({ Price=u; Time=DateTime.Now}))
 
-    let stockAgent (stockSymbol:string) =
-        MailboxProcessor<StockAgentMessage>.Start(fun inbox -> 
-            let rec loop stockPrice (subscriber:MailboxProcessor<ChartSeriesMessage> option) = async {
-                let! msg = inbox.Receive()
+    let stockAgentObs (stockSymbol:string, chartAgent:Agent<ChartSeriesMessage>) =
+        Agent<StockAgentMessage>.Start(fun inbox -> 
+            stocksObservable(inbox)
+            let rec loop stockPrice (chartAgent:Agent<ChartSeriesMessage>) = async {
+                let! { Price=price; Time=time } = inbox.Receive()
+                let message = HandleStockPrice(stockSymbol, price, time)
+                chartAgent.Post(message)  
+                return! loop stockPrice chartAgent }
+            loop 20m chartAgent)
+                    
+    // TODO:    Create a stock-Agent using the MailboxProcessor    
+    //          There will one Agent for each stock-symbol
+    //          This Agent is keeping track of the price of the Stock (at least the last one), 
+    //          and it updates the chart-Agent by sending the update value
+    // TODO:    For Updating the price you would need a timer, possible options are
+    //          1) Use the timer built in the Agent
+    //          2) Use Reactive Extensions with Observable.Interval 
+    //             and subscribe the Observer to "Post" the updated price to the Agent
+
+
+    let stockAgent (stockSymbol:string, chartAgent:Agent<ChartSeriesMessage>) =
+        Agent<StockAgentMessage>.Start(fun inbox -> 
+            let rec loop stockPrice (chartAgent:Agent<ChartSeriesMessage>) = async {
+                let! msg = inbox.TryReceive(750)
                 match msg with
-                | UpdateStockPrices(p, d) ->  
-                    match subscriber with
-                    | None -> return! loop stockPrice subscriber
-                    | Some(a) -> 
-                        let message = HandleStockPrice(stockSymbol, p, d)
-                        a.Post(message)  
-                        return! loop stockPrice  subscriber
-                | SubscribeStockPrices(s, a) -> 
-                    match subscriber with
-                    | None -> return! loop stockPrice (Some(a))
-                    | _ -> return! loop stockPrice subscriber
-                | UnSubscribeStockPrices(s) -> 
-                    match subscriber with
-                    | None -> return! loop stockPrice subscriber
-                    | Some(a) -> 
-                            (a :> IDisposable).Dispose()
-                            return! loop stockPrice None }
-            loop 20m None)
+                | None ->   let newPrice = updatePrice stockPrice
+                            inbox.Post({ Price=newPrice; Time=DateTime.Now })
+                            return! loop newPrice chartAgent
+                | Some(msg) ->
+                    let { Price=price; Time=time } = msg
+                    let message = HandleStockPrice(stockSymbol,price, time)
+                    chartAgent.Post(message)  
+                    return! loop stockPrice chartAgent }
+            loop 20m chartAgent)
 
-    let stocksCoordinatorAgent(lineChartingAgent:MailboxProcessor<ChartSeriesMessage>) =
-        let stockAgents = Dictionary<string, MailboxProcessor<StockAgentMessage>>()
-        MailboxProcessor<StocksCoordinatorMessage>.Start(fun inbox ->
+
+
+    // TODO:    Create a coordinator-Agent using the MailboxProcessor    
+    //          This agent is keeping track of the subsscribed stock-Agents, one per stock symbol
+    //          Use internal state for adding new stock agent when requested, 
+    //          or for removing existing stock Agent when the stock symbol is removed
+
+    let stocksCoordinatorAgent(lineChartingAgent:Agent<ChartSeriesMessage>) =
+        let stockAgents = Dictionary<string, Agent<StockAgentMessage>>()
+        Agent<StocksCoordinatorMessage>.Start(fun inbox ->
                 let rec loop() = async {
                     let! msg = inbox.Receive()
                     match msg with
                     | WatchStock(s) -> 
                         if not <| stockAgents.ContainsKey(s) then 
-                            let stockAgentChild = stockAgent(s)
+                            let stockAgentChild = stockAgent(s, lineChartingAgent)
                             stockAgents.Add(s, stockAgentChild)
-                            stockAgents.[s].Post(SubscribeStockPrices(s, lineChartingAgent))
                             lineChartingAgent.Post(AddSeriesToChart(s))          
-                            stocksObservable(stockAgentChild)
                         return! loop()                                         
                     | UnWatchStock(s) ->
                         if stockAgents.ContainsKey(s) then
                              lineChartingAgent.Post(RemoveSeriesFromChart(s))  
-                             stockAgents.[s].Post(UnSubscribeStockPrices(s))
                              (stockAgents.[s] :> IDisposable).Dispose()
                              stockAgents.Remove(s) |> ignore
                         return! loop() } 
@@ -90,7 +85,7 @@
 
     let lineChartingAgent(chartModel:PlotModel) =
         let refreshChart() = chartModel.InvalidatePlot(true)
-        MailboxProcessor<ChartSeriesMessage>.Start(fun inbox ->
+        Agent<ChartSeriesMessage>.Start(fun inbox ->
                 let series =  Dictionary<string, LineSeries>()
                 let rec loop() = async {
                     let! msg = inbox.Receive()

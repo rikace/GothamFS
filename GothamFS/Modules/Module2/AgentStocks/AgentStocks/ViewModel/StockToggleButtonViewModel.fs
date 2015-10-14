@@ -11,7 +11,7 @@ open OxyPlot
 open OxyPlot.Axes
 open OxyPlot.Series
 open Messages
-
+open Utils
 
 
 type StockToggleButtonViewModel(stockSymbol:string, stockCoordinator:MailboxProcessor<StocksCoordinatorMessage>) as self =
@@ -24,7 +24,7 @@ type StockToggleButtonViewModel(stockSymbol:string, stockCoordinator:MailboxProc
     let mutable stockSymbol = stockSymbol
 
     let toggleAgent =
-            MailboxProcessor.Start(fun inbox -> 
+            Agent.Start(fun inbox -> 
                 let rec toggledOn() = async {
                     let! msg = inbox.Receive()
                     stockCoordinator.Post(UnWatchStock(stockSymbol))

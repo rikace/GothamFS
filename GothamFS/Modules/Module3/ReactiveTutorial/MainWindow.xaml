@@ -4,7 +4,7 @@
         Title="" Height="600" Width="800">
 
     <Canvas Name="Canvas" Background="White">
-        <Rectangle Name="Rectangle" Fill="Orange" Width="100" Height="100" RadiusX="10" RadiusY="10" />
+        <Rectangle Name="Ball" Fill="Orange" Width="100" Height="100" RadiusX="60" RadiusY="60" />
     </Canvas>
     
 </Window>

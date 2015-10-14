@@ -1,5 +1,5 @@
 ﻿open System
-open Util
+open Utils
 open Computation
 open System.Windows
 open System.Windows.Controls
@@ -9,6 +9,7 @@ open System.Windows.Threading
 open System.Windows.Media.Imaging
 open Microsoft.FSharp.NativeInterop
 
+// Convert a BitmapSource to int array
 let getPixels(img:BitmapSource)  =    
     let stride = img.PixelWidth * 4
     let size = img.PixelHeight * stride
@@ -19,16 +20,23 @@ let getPixels(img:BitmapSource)  =
 type ZoomControl(width:int,height:int) as self =
     inherit Window()
     
-    let syncContext = System.Threading.SynchronizationContext()  
+    // Creating controls
     let bitmap = WriteableBitmap(width,height, 96., 96., PixelFormats.Bgr32, null)
     let canvas = Canvas()
+   
+    // Set the initial Points for the fractal
+    let mutable points = (-2.0, -1.0, 1.0, 1.0)
         
+    let transparentGray = 
+        SolidColorBrush(Color.FromArgb(128uy, 164uy, 164uy, 164uy))
     do  
+        // Settings window size and content
         self.Width <- float width
         self.Height <- float height
         canvas.Children.Add(Image(Source=bitmap)) |> ignore
         self.Content <- canvas 
 
+    // Render the Fractal
     let render (x1,y1,x2,y2) (offset, height, stripe) (pixels:int array)  =   
         let dx, dy = x2-x1, y2-y1
         for y = 0 to height-1 do
@@ -42,12 +50,14 @@ type ZoomControl(width:int,height:int) as self =
                     | Escaped i -> 
                         let i = 255 - i
                         0xff000000 + (i <<< 16) +  (i <<< 8) + i
+        // Update the UI using the correct Thread
         ignore <| self.Dispatcher.Invoke(Action(fun () -> 
             bitmap.WritePixels(new Int32Rect(0, 0, width,(height * (offset + 1))), pixels, width * 4, offset)))
 
-    let mutable points = (-2.0, -1.0, 1.0, 1.0)
+    
     do render points (0,height,1) (getPixels(bitmap))
             
+    // Copy the selected portion of the image into a new WriteableBitmap 
     let copy (l,t,w,h) =
         let selection =  WriteableBitmap(int w, int h, 96., 96., PixelFormats.Bgr32, null)
         let source = getPixels bitmap 
@@ -55,22 +65,56 @@ type ZoomControl(width:int,height:int) as self =
             for x = 0 to int w - 1 do
                 let c = source.[int l + x + ((int t + y) * width)]
                 selection.SetPixeli(x + (y * int w), c)
-
         selection
-
+            
     let moveControl (element:FrameworkElement) (start:Point) (finish:Point) =
         element.Width <- abs(finish.X - start.X)
         element.Height <- abs(finish.Y - start.Y)
         Canvas.SetLeft(element, min start.X finish.X)
         Canvas.SetTop(element, min start.Y finish.Y)
 
-    let transparentGray = 
-        SolidColorBrush(Color.FromArgb(128uy, 164uy, 164uy, 164uy))
-   
+    
+    (*  Two state logic
+        The initial state is "Waiting", Asynchronously awaiting for the event "Mouse Down".
+        By pressing the mouse the state switch into "Drawing". 
+        In this state, we can either continue Drawing by moving the mouse, or complete 
+        the task and change the state of the application back to "Waiting" by releasing the button.
+        The state machine is using asynchronous workflows.
+      
+        The funcntiom "waiting()" add a temporary transperent Canvas in top of the existing one, 
+        with the purpose of providing a visual effect while drawing the rectangle, 
+        which ultimatelly it will represent the Zoom portion.
+        
+        The function "drawing" takes as argumnet a tuple, with the position "Point" that represent 
+        the X and Y coordinates of the corners of the rectangle. 
+        Morover, this function is awaiting Asynchronously two events
+        1)  "Mouse Move" event, which is keeping track of the current position of the mouse 
+            while moving and drawing the rectangle
+        2) "Mouse Up" event, which is stopping the "drawing" and it retrives the current
+            mouse position to use for the zooming.
+    *)
+
+    
+    // TODO:    Create two co-recursive functions for waiting and drawing
+    // TODO:    The waiting function is waiting asyncronoulsy for the event "Mouse Down"
+    // TODO:    The waiting function, after the event "Mouse Down" it creates a new canvas control 
+    //          for the zooming (drawing rectangle), and it changes state to "drawing" passing the mouse coordinates
+    // TODO:    The drawing function awaits asynchronously for two events "Mouse Up" and "Mouse Move"
+    // TODO:    The drawing function, using pattern matching detect the event fired
+    //          1)  For the Event "Mouse Up", get the coordinates and size of the rectangle 
+    //              drawened to detect the portion of the Fractal to zoom. 
+    //              Using the just obtained zoom coordinates points "render" a new Fractal
+    //          2)  For the "Mouse Move" event, move the rectangle keeping track of the coordinates of mouse
+    // TODO:    Start the state in 'waiting" by using Async GUI friendly           
+
+    
+    // TODO:    Build functionality for Zoom out
+
     let rec waiting() = async {
         let! md = Async.AwaitObservable(self.MouseLeftButtonDown)
+
         let rc = new Canvas(Background = transparentGray)
-        canvas.Children.Add(rc) 
+        ignore <| canvas.Children.Add(rc) 
         do! drawing(rc, md.GetPosition(canvas)) }
 
     and drawing(rc:Canvas, pos) = async {
@@ -84,7 +128,7 @@ type ZoomControl(width:int,height:int) as self =
                     Image(Source=copy (l,t,w,h),
                           Stretch=Stretch.Fill,
                           Width=float width,Height=float height)
-                canvas.Children.Add preview
+                ignore <| canvas.Children.Add preview
 
                 let zoom (x1,y1,x2,y2) =           
                     let tx x = ((x/float width) * (x2-x1)) + x1
@@ -94,14 +138,20 @@ type ZoomControl(width:int,height:int) as self =
                 points <- zoom points
               
                 let threads = Environment.ProcessorCount
-              
                 let pixels = (getPixels(bitmap))
-                do! [0..threads - 1] 
-                        |> List.map (fun y ->                         
-                                async { render points (y,(height/threads),threads) pixels
-                            })
-                        |> Async.Parallel 
-                        |> Async.Ignore
+
+                do render points (0,height,1) pixels
+
+                // TODO:    Add paralle functionality
+                //          to speed up the rendering
+
+
+//                do! [0..threads - 1] 
+//                        |> List.map (fun y ->                         
+//                                async { render points (y,(height/threads),threads) pixels
+//                            })
+//                        |> Async.Parallel 
+//                        |> Async.Ignore
 
                 canvas.Children.Remove preview |> ignore
 

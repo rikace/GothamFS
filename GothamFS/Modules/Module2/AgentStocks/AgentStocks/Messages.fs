@@ -7,14 +7,11 @@ type StocksCoordinatorMessage =
     | UnWatchStock of string
 
 type ChartSeriesMessage =
-    | AddSeriesToChart of string //AddSeriesToChart
-    | RemoveSeriesFromChart of string //RemoveSeriesFromChart
-    | HandleStockPrice of string * decimal * DateTime // HandleNewStockPrice
+    | AddSeriesToChart of string  
+    | RemoveSeriesFromChart of string 
+    | HandleStockPrice of string * decimal * DateTime 
 
-type StockAgentMessage = 
-    | SubscribeStockPrices of string * MailboxProcessor<ChartSeriesMessage> 
-    | UnSubscribeStockPrices of string
-    | UpdateStockPrices of decimal * DateTime
+type StockAgentMessage = { Price:decimal; Time:DateTime }
 
 type StockPriceLookupMessage =
     | RefreshStockPrice of AsyncReplyChannel<decimal * DateTime>
