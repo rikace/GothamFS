@@ -1,0 +1,8 @@
+C:\Temp\GothamFS\src\2AgentModule\bin\Debug\2.AgentModule.exe.config
+C:\Temp\GothamFS\src\2AgentModule\bin\Debug\_3.AgentModule.XML
+C:\Temp\GothamFS\src\2AgentModule\bin\Debug\2.AgentModule.exe
+C:\Temp\GothamFS\src\2AgentModule\bin\Debug\2.AgentModule.pdb
+C:\Temp\GothamFS\src\2AgentModule\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS\src\2AgentModule\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS\src\2AgentModule\obj\Debug\2.AgentModule.exe
+C:\Temp\GothamFS\src\2AgentModule\obj\Debug\2.AgentModule.pdb

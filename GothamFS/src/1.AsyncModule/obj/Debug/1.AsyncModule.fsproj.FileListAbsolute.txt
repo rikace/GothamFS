@@ -1,0 +1,8 @@
+C:\Temp\GothamFS\src\1.AsyncModule\bin\Debug\_1.AsyncModule.exe.config
+C:\Temp\GothamFS\src\1.AsyncModule\bin\Debug\_1.AsyncModule.XML
+C:\Temp\GothamFS\src\1.AsyncModule\bin\Debug\_1.AsyncModule.exe
+C:\Temp\GothamFS\src\1.AsyncModule\bin\Debug\_1.AsyncModule.pdb
+C:\Temp\GothamFS\src\1.AsyncModule\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS\src\1.AsyncModule\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS\src\1.AsyncModule\obj\Debug\_1.AsyncModule.exe
+C:\Temp\GothamFS\src\1.AsyncModule\obj\Debug\_1.AsyncModule.pdb

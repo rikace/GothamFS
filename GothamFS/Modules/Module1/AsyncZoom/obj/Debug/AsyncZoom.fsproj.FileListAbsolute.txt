@@ -1,0 +1,15 @@
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\AsyncZoom.exe.config
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\AsyncZoom.XML
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\AsyncZoom.exe
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\AsyncZoom.pdb
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\FSharp.PowerPack.dll
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\FSharp.PowerPack.Parallel.Seq.dll
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\FSharp.PowerPack.xml
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\FSharp.PowerPack.Parallel.Seq.xml
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\obj\Debug\AsyncZoom.exe
+C:\Temp\GothamFS\Modules\Module1\AsyncZoom\obj\Debug\AsyncZoom.pdb

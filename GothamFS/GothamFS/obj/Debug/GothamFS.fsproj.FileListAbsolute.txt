@@ -1,0 +1,7 @@
+C:\Temp\GothamFS\GothamFS\bin\Debug\GothamFS.XML
+C:\Temp\GothamFS\GothamFS\bin\Debug\GothamFS.exe
+C:\Temp\GothamFS\GothamFS\bin\Debug\GothamFS.pdb
+C:\Temp\GothamFS\GothamFS\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS\GothamFS\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS\GothamFS\obj\Debug\GothamFS.exe
+C:\Temp\GothamFS\GothamFS\obj\Debug\GothamFS.pdb
