@@ -1,0 +1,42 @@
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\GothamFS\bin\Debug\GothamFS.XML
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\GothamFS\bin\Debug\GothamFS.exe
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\GothamFS\bin\Debug\GothamFS.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\GothamFS\bin\Debug\FSharp.Core.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\GothamFS\bin\Debug\FSharp.Core.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\GothamFS\obj\Debug\GothamFS.exe
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\GothamFS\obj\Debug\GothamFS.pdb
+C:\Temp\GothamFS -Original\GothamFS\bin\Debug\GothamFS.XML
+C:\Temp\GothamFS -Original\GothamFS\bin\Debug\GothamFS.exe
+C:\Temp\GothamFS -Original\GothamFS\bin\Debug\GothamFS.pdb
+C:\Temp\GothamFS -Original\GothamFS\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Original\GothamFS\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Original\GothamFS\obj\Debug\GothamFS.exe
+C:\Temp\GothamFS -Original\GothamFS\obj\Debug\GothamFS.pdb
+C:\Temp\GothamFS -Original - Copy\GothamFS\bin\Debug\GothamFS.XML
+C:\Temp\GothamFS -Original - Copy\GothamFS\bin\Debug\GothamFS.exe
+C:\Temp\GothamFS -Original - Copy\GothamFS\bin\Debug\GothamFS.pdb
+C:\Temp\GothamFS -Original - Copy\GothamFS\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Original - Copy\GothamFS\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Original - Copy\GothamFS\obj\Debug\GothamFS.exe
+C:\Temp\GothamFS -Original - Copy\GothamFS\obj\Debug\GothamFS.pdb
+C:\Temp\GothamFS -After\GothamFS\bin\Debug\GothamFS.XML
+C:\Temp\GothamFS -After\GothamFS\bin\Debug\GothamFS.exe
+C:\Temp\GothamFS -After\GothamFS\bin\Debug\GothamFS.pdb
+C:\Temp\GothamFS -After\GothamFS\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -After\GothamFS\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -After\GothamFS\obj\Debug\GothamFS.exe
+C:\Temp\GothamFS -After\GothamFS\obj\Debug\GothamFS.pdb
+C:\Temp\GothamFS -Before\GothamFS\bin\Debug\GothamFS.XML
+C:\Temp\GothamFS -Before\GothamFS\bin\Debug\GothamFS.exe
+C:\Temp\GothamFS -Before\GothamFS\bin\Debug\GothamFS.pdb
+C:\Temp\GothamFS -Before\GothamFS\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Before\GothamFS\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Before\GothamFS\obj\Debug\GothamFS.exe
+C:\Temp\GothamFS -Before\GothamFS\obj\Debug\GothamFS.pdb
+C:\Temp\GothamFS -Before - Copy\GothamFS\bin\Debug\GothamFS.XML
+C:\Temp\GothamFS -Before - Copy\GothamFS\bin\Debug\GothamFS.exe
+C:\Temp\GothamFS -Before - Copy\GothamFS\bin\Debug\GothamFS.pdb
+C:\Temp\GothamFS -Before - Copy\GothamFS\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Before - Copy\GothamFS\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Before - Copy\GothamFS\obj\Debug\GothamFS.exe
+C:\Temp\GothamFS -Before - Copy\GothamFS\obj\Debug\GothamFS.pdb

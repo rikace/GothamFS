@@ -1,0 +1,368 @@
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\App.config
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\App.exe
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\App.pdb
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Users\rterrell\Documents\Visual Studio 2013\Projects\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\App.config
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\App.XML
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\App.exe
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\App.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.xml
+F:\CodeToCheck\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+F:\CodeToCheck\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+F:\CodeToCheck\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\App.config
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\App.exe
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\App.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.config
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.config
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Temp\GothamFS\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.config
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Temp\GothamFS -Original\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.config
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Temp\GothamFS -Original - Copy\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.config
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Temp\GothamFS -After\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+C:\Temp\GothamFS -Before\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Temp\GothamFS -Before\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Temp\GothamFS -Before\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Temp\GothamFS -Before\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.config
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe.config
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.XML
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.exe
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\App.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Windows.Interactivity.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Wpf.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\OxyPlot.Xps.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Core.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Interfaces.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.Linq.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.g.resources
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.exe
+C:\Temp\GothamFS -Before - Copy\Modules\Module2\AgentStocks\AgentStocks\obj\x86\Debug\App.pdb

@@ -1,0 +1,52 @@
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.g.resources
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\bin\Debug\ReactiveTutorial.XML
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\bin\Debug\ReactiveTutorial.exe
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\bin\Debug\ReactiveTutorial.pdb
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\bin\Debug\FSharp.Core.dll
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\bin\Debug\FSharpx.TypeProviders.Xaml.dll
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\bin\Debug\FSharpx.TypeProviders.Xaml.xml
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\bin\Debug\FSharp.Core.xml
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.exe
+F:\FSharpReactiveTutorial-Part1-DraggableRectangle\ReactiveTutorial\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.XML
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.exe
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.pdb
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.dll
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\bin\Debug\FSharpx.TypeProviders.Xaml.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.xml
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.g.resources
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.exe
+C:\Users\Riccardo\Documents\Visual Studio 2013\Projects\GothamFS\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -Original\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.g.resources
+C:\Temp\GothamFS -Original - Copy\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.g.resources
+C:\Temp\GothamFS -Original - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.XML
+C:\Temp\GothamFS -Original - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.exe
+C:\Temp\GothamFS -Original - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -Original - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Original - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Original - Copy\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.exe
+C:\Temp\GothamFS -Original - Copy\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -After\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.XML
+C:\Temp\GothamFS -After\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.exe
+C:\Temp\GothamFS -After\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -After\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -After\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -After\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.g.resources
+C:\Temp\GothamFS -After\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.exe
+C:\Temp\GothamFS -After\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -Before\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.XML
+C:\Temp\GothamFS -Before\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.exe
+C:\Temp\GothamFS -Before\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -Before\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Before\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.xml
+C:\Temp\GothamFS -Before\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.g.resources
+C:\Temp\GothamFS -Before\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.exe
+C:\Temp\GothamFS -Before\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.XML
+C:\Temp\GothamFS -Before - Copy\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.g.resources
+C:\Temp\GothamFS -Before - Copy\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.exe
+C:\Temp\GothamFS -Before - Copy\Modules\Module3\ReactiveTutorial\obj\x86\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.exe
+C:\Temp\GothamFS -Before - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\ReactiveTutorial.pdb
+C:\Temp\GothamFS -Before - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.dll
+C:\Temp\GothamFS -Before - Copy\Modules\Module3\ReactiveTutorial\bin\Debug\FSharp.Core.xml
