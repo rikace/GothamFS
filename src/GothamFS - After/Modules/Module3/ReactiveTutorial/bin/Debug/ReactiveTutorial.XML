@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>ReactiveTutorial</name></assembly>
+<members>
+<member name="T:MainApp.DragChange.UpdatePosition">
+<summary>
+ Update the drag with a new position
+</summary>
+</member>
+<member name="T:MainApp.DragChange.StopDrag">
+<summary>
+ Stop dragging
+</summary>
+</member>
+<member name="T:MainApp.DragChange.StartDrag">
+<summary>
+ Start dragging from a certain offset
+</summary>
+</member>
+<member name="T:MainApp.DragChange">
+<summary>
+ A type of change that can happen to the DragState
+</summary>
+</member>
+<member name="P:MainApp.DragState.offset">
+<summary>
+ Drag offset, for taking into account initial drag position
+</summary>
+</member>
+<member name="P:MainApp.DragState.position">
+<summary>
+ Current position of the drag
+</summary>
+</member>
+<member name="P:MainApp.DragState.dragging">
+<summary>
+ Are we currently dragging?
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:MainApp.loadWindow">
+<summary>
+ Initialized the application
+</summary>
+</member>
+<member name="T:MainApp">
+
+</member>
+</members>
+</doc>
